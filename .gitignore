@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+tmp/
+.cache/
+cache/
+coverage/
+.coverage/
+workdir/
+*.tar.gz
+*.zip
